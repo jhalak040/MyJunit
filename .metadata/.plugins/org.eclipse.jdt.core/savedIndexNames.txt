@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/home/axelor/eclipse-workspace/MyJunit/.metadata/.plugins/org.eclipse.jdt.core
+3162269900.index
